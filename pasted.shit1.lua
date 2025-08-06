@@ -12,7 +12,7 @@ LPH_JIT_MAX = LPH_NO_VIRTUALIZE
 
 local devMode = true
 local defaultUIName = "$retard.xyz$" -- $$$
-local folderName = "retard.xyzzzzzzz"
+local folderName = "Phantom Forces Cheat"
 local connectionList = {}
 local callbackList = {}
 local playerStatus = {}
